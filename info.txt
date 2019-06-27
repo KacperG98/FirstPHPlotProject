@@ -1,0 +1,29 @@
+911 linii kodu
+
+Rozmiar aplikacji 716 KB
+
+Połączenie z bazą danych jest w plikach:
+-index.php
+-godzina.php
+-godzinap.php
+-miesiac.php
+-miesiacp.php
+-rok.php
+-rokp.php
+-wykresy.php
+-wykresp.php
+
+Wykorzystano:
+-HTML
+-CSS
+-Bootstrap
+-JavaScript
+-PHP
+-PHPlot
+-mySQL
+
+W przypadku danych w wykresach nie obsługuje polskich znaków.
+
+Autorzy dają prawa do rozpowrzechniania aplikacji pod warunkiem uwzględnienia ich z imienia i nazwiska.
+
+Aplikacja korzysta z COOKIES któe są po narysowaniu wykresu niszczone.

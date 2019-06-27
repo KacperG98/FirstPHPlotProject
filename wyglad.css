@@ -1,0 +1,94 @@
+#logo{
+    height: 100px;
+    width: 100px;
+    text-align: left;
+}
+
+#kontener{
+    background-color: #333333;
+    border: 0px solid black;
+    border-radius: 15px;
+}
+#tytul{
+    text-align: center;
+}
+#formularz{
+    margin: 10px 0px 10px 0px;
+}
+#pole{
+    max-width: 250px;
+}
+#info{
+    margin: 10px 0px 10px 0px;
+    border: 0px solid black;
+    border-radius: 5px;
+}
+#jednostka{
+    font-size: 60px;
+    color: gold;
+}
+#zdj{
+    border: 1px solid silver;
+    border-radius: 5px;
+    margin: 10px;
+}
+#opiswykresu{
+    min-width: 200px;
+    min-height: 100px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    margin: 10px;
+}
+#cookieinfo * {
+    margin: 0px;
+    padding: 0px;
+}
+
+#cookieinfo {
+    position: fixed;
+    font-size: 12px;
+    font-family: Arial, Verdana, sans-serif;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    background-color: #323334;
+    padding: 20px;
+    box-shadow: 0px -1px 3px rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+#cookieinfo h6 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #cdd7da;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 1);
+    margin-bottom: 7px;
+}
+
+#cookieinfo p {
+    font-size: 12px;
+    color: #afb4bc;
+    line-height: 1.5em;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 1);
+}
+
+#cookieinfo a {
+    display: block;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+    line-height: 22px;
+    font-size: 12px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background-color: #ff6000;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.75);
+}
+
+#cookieinfo a:hover {
+    background-color: #ff7925;
+}
